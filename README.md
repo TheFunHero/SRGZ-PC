@@ -3,7 +3,7 @@
 A native Windows port of **Sonic Riders: Zero Gravity** (Wii), made by static recompilation. The game's own code was translated to run directly on PC, so it isn't an emulator.
 
 <!-- Trailer: replace the link below with your YouTube video -->
-**▶ [Watch the trailer](https://www.youtube.com/)**  ·  **⬇ [Download the latest release](https://github.com/TheFunHero/SRGZ-PC/releases/latest)**
+**▶ [Watch the trailer](https://youtu.be/DJbXEAvjpjM)**  ·  **⬇ [Download the latest release](https://github.com/TheFunHero/SRGZ-PC/releases/latest)**
 
 > [!IMPORTANT]
 > **This port does not include the game.** There are no graphics, music, sound or text from Sonic Riders: Zero Gravity in the download.
